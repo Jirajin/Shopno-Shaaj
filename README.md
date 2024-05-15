@@ -26,7 +26,7 @@ Our model checkpoints trained on [VITON-HD](https://github.com/shadow2496/VITON-
 1. Clone the repository
 
 ```sh
-git clone https://github.com/levihsu/OOTDiffusion
+git clone https://github.com/Jirajin/Shopno-Shaaj.git
 ```
 
 2. Create a conda environment and install the required packages
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 1. Half-body model
 
 ```sh
-cd OOTDiffusion/run
+cd SHOPNO-SHAAJ/run
 python run_ootd.py --model_path <model-image-path> --cloth_path <cloth-image-path> --scale 2.0 --sample 4
 ```
 
@@ -51,15 +51,15 @@ python run_ootd.py --model_path <model-image-path> --cloth_path <cloth-image-pat
 > Garment category must be paired: 0 = upperbody; 1 = lowerbody; 2 = dress
 
 ```sh
-cd OOTDiffusion/run
+cd SHOPNO-SHAAJ/run
 python run_ootd.py --model_path <model-image-path> --cloth_path <cloth-image-path> --model_type dc --category 2 --scale 2.0 --sample 4
 ```
 
 ## Citation
 ```
 @article{xu2024ootdiffusion,
-  title={OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on},
-  author={Xu, Yuhao and Gu, Tao and Chen, Weifeng and Chen, Chengcai},
+  title={SHOPNO-SHAAJ: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on},
+  author={J.I. Rajin, Xu, Yuhao and Gu, Tao and Chen, Weifeng and Chen, Chengcai},
   journal={arXiv preprint arXiv:2403.01779},
   year={2024}
 }
