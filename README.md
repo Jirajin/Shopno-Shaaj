@@ -1,7 +1,7 @@
 # SHOPNO-SHAAJ
 This repository is the official implementation of SHOPNO-SHAAj
 
-🤗 [Try out OOTDiffusion](https://huggingface.co/spaces/levihsu/OOTDiffusion)
+🤗 [Try out SHOPNO-SHAAJ](https://huggingface.co/spaces/levihsu/OOTDiffusion)
 
 (Thanks to [ZeroGPU](https://huggingface.co/zero-gpu-explorers) for providing A100 GPUs)
 
