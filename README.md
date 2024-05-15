@@ -1,5 +1,7 @@
 # SHOPNO-SHAAJ
-This repository is the official implementation of SHOPNO-SHAAj
+This repository is the official implementation of SHOPNO-SHAAJ
+
+### SHOPNO-SHAAJ is an AI modelling and virtual clothes try on software.
 
 🤗 [Try out SHOPNO-SHAAJ](https://huggingface.co/spaces/levihsu/OOTDiffusion)
 
